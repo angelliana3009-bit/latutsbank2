@@ -102,3 +102,11 @@ void main(){
         }
     }
 }
+
+
+
+// if (antreanNasabah.isNotEmpty) {
+//     String nasabahDilayani = antreanNasabah.removeFirst();
+// } else {
+//     print("Antrean kosong!");
+// untuk cek klau antrean kosong dn mencegah crash
